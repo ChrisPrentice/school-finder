@@ -1,0 +1,7 @@
+bundles.js
+
+node_modules/
+bower_components/
+*.log
+
+.vscode/

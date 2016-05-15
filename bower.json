@@ -1,0 +1,20 @@
+{
+  "name": "school-finder",
+  "description": "school finder example on code project",
+  "main": "index.js",
+  "authors": [
+    "chris prentice"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
